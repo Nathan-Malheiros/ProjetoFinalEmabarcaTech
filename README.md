@@ -43,8 +43,7 @@ Um software assíncrono desenvolvido em Python puro (Tkinter, Socket, Threading)
 
 O vídeo abaixo apresenta o sistema completo operando na prática, demonstrando a comunicação ponta-a-ponta entre a placa BitDogLab e o computador central:
 
-👉 **Vídeo Cortado: https://youtu.be/r81Ynvu1LB8**
-👉 **Vídeo Completo: https://youtu.be/oDvXAvKADgs**
+👉 **Vídeo Demonstrativo: https://youtu.be/WyPsSRARnw4**
 
 ---
 
